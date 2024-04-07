@@ -1,0 +1,15 @@
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Contracts\bin\Debug\net6.0\BasicInfo.Core.Contracts.deps.json
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Contracts\bin\Debug\net6.0\BasicInfo.Core.Contracts.dll
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Contracts\bin\Debug\net6.0\BasicInfo.Core.Contracts.pdb
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Contracts\bin\Debug\net6.0\BasicInfo.Core.Domain.dll
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Contracts\bin\Debug\net6.0\BasicInfo.Core.Domain.pdb
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Contracts\obj\Debug\net6.0\BasicInfo.Core.Contracts.csproj.AssemblyReference.cache
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Contracts\obj\Debug\net6.0\BasicInfo.Core.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Contracts\obj\Debug\net6.0\BasicInfo.Core.Contracts.AssemblyInfoInputs.cache
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Contracts\obj\Debug\net6.0\BasicInfo.Core.Contracts.AssemblyInfo.cs
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Contracts\obj\Debug\net6.0\BasicInfo.Core.Contracts.csproj.CoreCompileInputs.cache
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Contracts\obj\Debug\net6.0\BasicInfo.Core.Contracts.csproj.CopyComplete
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Contracts\obj\Debug\net6.0\BasicInfo.Core.Contracts.dll
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Contracts\obj\Debug\net6.0\refint\BasicInfo.Core.Contracts.dll
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Contracts\obj\Debug\net6.0\BasicInfo.Core.Contracts.pdb
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Contracts\obj\Debug\net6.0\ref\BasicInfo.Core.Contracts.dll

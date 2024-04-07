@@ -1,0 +1,17 @@
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.ApplicationService.deps.json
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.ApplicationService.dll
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.ApplicationService.pdb
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Contracts.dll
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Domain.dll
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Contracts.pdb
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Domain.pdb
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.csproj.AssemblyReference.cache
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.AssemblyInfoInputs.cache
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.AssemblyInfo.cs
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.csproj.CoreCompileInputs.cache
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.csproj.CopyComplete
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.dll
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\refint\BasicInfo.Core.ApplicationService.dll
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.pdb
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\ref\BasicInfo.Core.ApplicationService.dll
