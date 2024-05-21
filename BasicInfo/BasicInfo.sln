@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicInfo.Endpoints.API", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicInfo.Core.ApplicationService", "src\1.Core\BasicInfo.Core.ApplicationService\BasicInfo.Core.ApplicationService.csproj", "{1205F81F-5FCA-4507-BD06-344589078FEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicInfo.Core.Domain.Test", "test\1.Core\BasicInfo.Core.Domain.Test\BasicInfo.Core.Domain.Test.csproj", "{985B8F97-1A2E-49EF-934D-903039140F61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{1205F81F-5FCA-4507-BD06-344589078FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1205F81F-5FCA-4507-BD06-344589078FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1205F81F-5FCA-4507-BD06-344589078FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{985B8F97-1A2E-49EF-934D-903039140F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985B8F97-1A2E-49EF-934D-903039140F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985B8F97-1A2E-49EF-934D-903039140F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985B8F97-1A2E-49EF-934D-903039140F61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +87,7 @@ Global
 		{0F4D94A9-ECF2-4480-9793-1BA8A7D701F3} = {32B42A7E-3C12-44B7-ADA9-41294B12820A}
 		{D714E7CC-CA2F-4C5C-BBB8-66EECF1ED228} = {81DE7253-0AB5-4E48-8614-759C04CAE244}
 		{1205F81F-5FCA-4507-BD06-344589078FEA} = {1E524427-9DDA-4241-8A5F-01F0E0E152FC}
+		{985B8F97-1A2E-49EF-934D-903039140F61} = {7D0EBCBE-23F7-48E3-9E2A-0ED3F2B4283F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {07B7D400-5E74-48AF-A2B5-2FC92393384D}

@@ -19,7 +19,7 @@ public class KeywordTitle : BaseValueObject<KeywordTitle>
         }
         if (value.Length < 2 || value.Length > 250)
         {
-            throw new InvalidValueObjectStateException("ValidationErrorStringLength", nameof(KeywordTitle), "5", "50");
+            throw new InvalidValueObjectStateException("ValidationErrorStringLength", nameof(KeywordTitle), "2", "50");
         }
         Value = value;
     }
